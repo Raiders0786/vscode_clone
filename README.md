@@ -4,5 +4,5 @@
 
 
 ##### Won the bounty for this at DAY-1 itself, woww!!
-https://projects.100xdevs.com/tracks/javascript-1/Javascript-101-1
+- check this out for more info: https://projects.100xdevs.com/tracks/javascript-1/Javascript-101-1
 
